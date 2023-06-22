@@ -1,0 +1,17 @@
+.con{
+    background-color: rgb(41, 41, 42);
+}
+.container{
+    margin: auto;
+    background-color: rgb(76, 74, 72);
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    background-color: rgb(250, 67, 88);
+    margin: 1rem 1rem 1rem 1rem;
+    text-align: center;
+}
+.btn{
+    background-color: burlywood;
+}

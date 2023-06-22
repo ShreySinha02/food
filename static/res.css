@@ -1,0 +1,9 @@
+.con{
+    background-color: rgb(41, 41, 42);
+    color: rgb(230, 241, 237);
+}
+.box{
+    margin: auto;
+    width: 95%;
+    background-color: rgb(76, 74, 72);
+}
